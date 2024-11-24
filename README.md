@@ -1,3 +1,5 @@
+NOTE: this is superceded by Sarah
+
 # PerksSpecial
 Custom PCB for the JLI2555 Capsule 
 After long delays in my redesign of Matthew Perks’ excellent USB 3.0 microphone, I’m releasing this very simple design that will work with many TO92 and TO71 JFETs.
